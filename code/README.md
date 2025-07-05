@@ -1,4 +1,4 @@
-# Code Folder – Scripts for Training & Evaluation
+# Scripts for Training & Evaluation
 
 This folder contains all the core scripts used to train and evaluate the student Mini-UNet model for image sharpening via knowledge distillation from the SwinIR teacher model.
 
@@ -19,7 +19,7 @@ This folder contains all the core scripts used to train and evaluate the student
 
 ## How to Use the Scripts
 
-> ⚠Before running any script, ensure dataset paths and output directories are correctly configured inside the files.
+> Before running any script, ensure dataset paths and output directories are correctly configured inside the files.
 
 ### Train the Student with L1 Loss Only
 
