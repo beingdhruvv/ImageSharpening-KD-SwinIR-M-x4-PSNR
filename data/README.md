@@ -48,7 +48,7 @@ data/
 
 ---
 
-## 🛠How to Generate Dataset
+## How to Generate Dataset
 
 Run the `dataset preprocessing` block from the main notebook:
 
