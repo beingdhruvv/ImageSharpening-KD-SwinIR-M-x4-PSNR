@@ -16,7 +16,7 @@ All files are in `.pth` PyTorch format and should be loaded using `torch.load()`
 models/
 ├── swinir_teacher/
 │   ├── 003_realSR_BSRGAN_DFO_s64w8_SwinIR-M_x4_PSNR.pth   # Teacher model
-│   └── README.md (or .gitkeep placeholder)
+│   └── README.md 
 ├── student_kd.pt          # Final trained student (KD)
 ├── student_l1.pt          # Student trained with L1 only (optional)
 ├── student_kd_epoch25.pt  # Checkpoint at epoch 25 (optional)
