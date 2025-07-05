@@ -123,7 +123,7 @@ outputs/external_test/
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 This project is designed to run entirely in **Google Colab**. If running locally, install:
 
@@ -137,7 +137,7 @@ Optional:
 
 ---
 
-## ▶How to Use
+## How to Use
 
 ### Run in Colab
 
@@ -175,7 +175,7 @@ Steps included:
 
 ---
 
-## ⚠Notes
+## Notes
 
 * Dataset is excluded from this repo (too large) → use placeholders
 * To recreate patches, refer to the preprocessing script in the notebook
@@ -185,7 +185,8 @@ Steps included:
 
 ## Author & Credits
 
-**Project Lead**: [Dhruv](https://github.com/beingdhruvv)
+**Project Lead**: [Dhruv Suthar](https://github.com/beingdhruvv)
+Project Co-developer: [Pratham Patel](https://github.com/prathampatel10)
 **Inspired by**:
 
 * [SwinIR](https://github.com/JingyunLiang/SwinIR)
@@ -193,7 +194,7 @@ Steps included:
 
 ---
 
-## 📜 License
+## License
 
 MIT License. This project is open-source and free for academic, educational, and research use.
 
