@@ -188,6 +188,7 @@ Steps included:
 **Project Lead**: [Dhruv Suthar](https://github.com/beingdhruvv)
 
 **Project Co-developer**: [Pratham Patel](https://github.com/prathampatel10)
+
 **Inspired by**:
 
 * [SwinIR](https://github.com/JingyunLiang/SwinIR)
