@@ -21,7 +21,7 @@ This repository contains a complete end-to-end pipeline for **image sharpening (
 This project is structured to keep the dataset excluded, but its structure preserved with `.gitkeep` or `README.md` placeholders:
 
 ```
-ImageSharpening_KD/
+ImageSharpening-KD-SwinIR-M-x4-PSNR/
 ├── code/                        # All training, testing, model scripts
 │   ├── student_model.py         # Mini-UNet architecture
 │   ├── dataset_loader.py        # Dataset class with blurry, sharp, teacher triplets
