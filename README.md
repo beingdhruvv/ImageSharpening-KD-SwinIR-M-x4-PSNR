@@ -31,8 +31,8 @@ ImageSharpening-KD-SwinIR-M-x4-PSNR/
 │
 ├── models/                      # Teacher + student weights
 │   ├── swinir_teacher/          # SwinIR pretrained model (README/placeholder only)
-│   │   └── README.md            # Path/URL reference to model (not included)
-│   └── student_kd.pt            # Final trained student model (if <100MB)
+│   │   └── README.md            # Path/URL reference to model 
+│   └── student_kd.pt            # Final trained student model 
 │
 │
 ├── logs/                        # Training logs
